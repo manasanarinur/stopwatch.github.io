@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+   
+}
+#watch{
+    background-color: #FFD523;
+    color:#fff;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 10%;
+    
+}
+.btn{
+    margin: 14px;
+    height:60px;
+    width:200px;
+}
